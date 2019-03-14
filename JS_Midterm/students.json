@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "name": "Yi Fei",
+    "profile-pic": "https://static.dezeen.com/uploads/2016/10/tear-gun-coneptual-product-design-yi-fei-chen-dutch-design-wekk-2016_dezeen_col_0.jpg",
+    "project": {
+      "title": "Tear Gun",
+      "collection-category": "Installation",
+      "collection-origin": "Pinterest",
+      "image": "https://static.dezeen.com/uploads/2016/10/tear-gun-coneptual-product-design-yi-fei-chen-dutch-design-wekk-2016_dezeen_col_1.jpg",
+      "comments": "A speculative design work that expresses the author's personal struggle about communication between people.",
+      "description": "After an altercation with a tutor, Design Academy Eindhoven graduate Yi-Fei Chen created this visual metaphor- Tear Gun- to show her personal struggle with speaking her mind.",
+      "keywords": [
+        "Speculative Design",
+        "Major Studio Final"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Richard The",
+    "profile-pic": "http://richardthe.com/thumbs/projects/DataCenterMuralProject/datacentermuralproject-odell-01-1920x1240-blur.jpg",
+    "project": {
+      "title": "Data Center Mural Project",
+      "collection-category": "Installation",
+      "collection-origin": "Portfolio",
+      "image": "http://richardthe.com/thumbs/projects/DataCenterMuralProject/datacentermuralproject-olib-04-1920x1440-blur.jpg",
+      "comments": "This is a great art installation work.",
+      "description": "The Data Center Mural project is a Google initiative to partner with artists to bring a bit of the magic from the inside of our data centers to the outside. Whether it’s sharing photos, searching the web, or translating languages, billions of requests are sent to ‘the cloud’ every day. But few people know all this information flows through physical locations, called data centers. Because these buildings typically aren’t much to look at, people usually don’t, and rarely learn about the incredible structures and people who make so much of modern life possible.",
+      "keywords": [
+       "Public Installation",
+       "Graphic Design"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Michael Grave",
+    "profile-pic": "https://images.collection.cooperhewitt.org/214678_860c5fc605fcaa32_b.jpg",
+    "project": {
+      "title": "Stainless Steel Sugar Bowl",
+      "collection-category": "Product",
+      "collection-origin": "Museum",
+      "image": "https://images.collection.cooperhewitt.org/214678_860c5fc605fcaa32_b.jpg",
+      "comments": "Michael Graves was an influential American architect, designer, and teacher.",
+      "description": "This stainless steel sugar bowl designed by architect Michael Graves for Italian metalwork manufacturer Alessi S.p.A. is part of a line of kitchen and table wares that have found their way into homes around the world. Graves’s model 9093 whistling kettle of 1985 was the initial object in the range.",
+      "keywords": [
+        "Product Design",
+        "Kate Sicchio"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Daniel J. Wilson",
+    "profile-pic": "https://shortlist.imgix.net/app/uploads/2017/08/23162153/876084f40a1f6c903fb9b1c99326e589-827x551.jpg?w=1640&h=1&fit=max&auto=format%2Ccompress",
+    "project": {
+      "title": "Minutine",
+      "collection-category": "UX/UI",
+      "collection-origin": "Website",
+      "image": "https://shortlist.imgix.net/app/uploads/2017/08/23162153/876084f40a1f6c903fb9b1c99326e589-827x551.jpg?w=1640&h=1&fit=max&auto=format%2Ccompress",
+      "comments": "New app minutiae is the anti-Instagram, and it looks like a lot of fun.",
+      "description": "The mission statement of minutiae is to be “an anti-social media app that uses a simple but unique concept to compel participants to photograph the normally undocumented moments of life”. And that tool? Once a day, it will send out an alert to its users that it’s time to take a picture – wherever you are, and whatever you’re doing – and you have just five seconds to take it. And if you don’t line something up? It’ll take it automatically anyway.",
+      "keywords": [
+        "Speculative Design",
+        "Social Media"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Dannniel",
+    "profile-pic": "https://cdn.dribbble.com/users/1094383/screenshots/4654928/rectangle_26.png",
+    "project": {
+      "title": "Redesign of HQ trivia",
+      "collection-category": "UX/UI",
+      "collection-origin": "Dribbble",
+      "image": "https://cdn.dribbble.com/users/1094383/screenshots/4654928/rectangle_26.png",
+      "comments": "Great User Interface design work.",
+      "description": "HQ is the wildly popular live game show app where you can win real cash prizes for free. Every day, tune into HQ to answer trivia questions and solve word puzzles ranging from easy to hard to savage. See if you have what it takes to win cash.",
+      "keywords": [
+        "App Redesign",
+        "User Interface"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Kelmscott Press",
+    "profile-pic": "https://images.collection.cooperhewitt.org/96144_50aa3dc17dcd1962_b.jpg",
+    "project": {
+      "title": "Reclaiming & Enlivening the Book",
+      "collection-category": "Graphic",
+      "collection-origin": "Museum",
+      "image": "https://images.collection.cooperhewitt.org/96144_50aa3dc17dcd1962_b.jpg",
+      "comments": "Kelmscott books are known for their use of hand-sewn binding, handmade linen paper, detailed wood-engraved illustrations, elaborate initials and borders, and dense, black type.",
+      "description": "William Morris’s The Wood Beyond the World (1894) relates the adventures of Golden Walter, a man who seeks to escape his mundane life and sets out on a sea voyage, eventually gaining control of the kingdom of Stark-Wall and the love of a beautiful maiden.",
+      "keywords": [
+        "Graphic Design",
+        "Storytell with Data"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ji Lee",
+    "profile-pic": "https://static1.squarespace.com/static/5baedb2d7fdcb8259f92b2ae/t/5bb9a7ec7817f7ebddb461f1/1538893811427/01ncnintropage.jpg?format=1500w",
+    "project": {
+      "title": "Nine Circles Numbers",
+      "collection-category": "Graphic",
+      "collection-origin": "Portfolio",
+      "image": "https://static1.squarespace.com/static/5baedb2d7fdcb8259f92b2ae/t/5bb9abb7085229e8f50c8e05/1538894782528/?format=2500w",
+      "comments": "A new number system which is playful and good looking",
+      "description": "NCN are new number system based on a visual logic of arithmetic progression. Unlike the Arabic numbers, which are a set of abstract symbols, the use of NCN does not rely on memorizing the shapes of each number, but rather on counting the elements contained in its nine-circles grid. NCN allow us to see that numbers can be mysterious, playful and beautiful.",
+      "keywords": [
+        "Number System",
+        "Major Studio"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Roman Ondak",
+    "profile-pic": "https://mymodernmet.com/wp/wp-content/uploads/archive/rD6ubZ5XgfV3AuSpcSWY_1082101754.jpeg",
+    "project": {
+      "title": "Measuring the Universe",
+      "collection-category": "Installation",
+      "collection-origin": "Pinterest",
+      "image": "https://mymodernmet.com/wp/wp-content/uploads/archive/TlciGA5NJlmIYv1cFznm_1082101729.jpeg",
+      "comments": "Great installasion design that focuse on users' interaction experience",
+      "description": "Slovakian artist Roman Ondak’s interactive installation titled Measuring the Universe started as a blank white room and evolved into a room with a strip of celestial black marks all around the gallery space at Tate St Ives. Through the participation of over 90,000 visitors measuring themselves and marking it on the walls, spectators get a visual sense of the space each of us takes up in this vast universe. It’s a reflection of physical occupied space as well as interconnectivity. Each person serves as a star in a network of celestial bodies or constellations. It’s also interesting the way this project has organically evolved into a sparse series of black marks on white walls that resemble a galaxy whose monochromatic scheme has been reversed.",
+      "keywords": [
+        "Interaction Design",
+        "Public Art"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Richard The",
+    "profile-pic": "http://richardthe.com/thumbs/projects/appeel/appeel-01-1152x768-blur.jpg",
+    "project": {
+      "title": "Appeel",
+      "collection-category": "Installation",
+      "collection-origin": "Portfolio",
+      "image": "http://richardthe.com/thumbs/projects/appeel/appeel-04-1152x768-blur.jpg",
+      "comments": "The interaction between users and installation is really simple and straightforward. It could boost people's creativity.",
+      "description": "Appeel is a game without rules. It starts with a wall that is covered all over with a signal red adhesive foil. The foil consists of thousands of circular stickers pre-cut in a narrow grid that wait to be pulled off and put in a new order by the visitors. The stickers, and its white negative on the wall, form, similarly to binary coded pixels, ornaments, news and pictures - on the original wall and far beyond: they move to adjoining rooms, onto faces and even leave the city.",
+      "keywords": [
+        "Interaction Design",
+        "Public Art"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "name": "Hero Design",
+    "profile-pic": "https://www.thisiscolossal.com/wp-content/uploads/2015/08/ever-5.jpg",
+    "project": {
+      "title": "Everbright",
+      "collection-category": "Installation",
+      "collection-origin": "Website",
+      "image": "https://www.thisiscolossal.com/wp-content/uploads/2015/08/ever-1.jpg",
+      "comments": "It looks like this has already moved beyond a concept and the devices are now available for sale.",
+      "description": "At 42x the size of a traditional ‘Light-Brite’ toy, the Everbright by San Francisco-based Hero Design is a huge grid of adjustable LEDs for drawing with light. But instead of only a limited selection of individual colors, the Everbright relies on 464 dials that change in hue as you twist them, offering almost unlimited color possibilities when creating designs. When you’re done drawing, the entire board resets to a blank canvas with the press of a single button. While fully interactive, it also comes pre-programmed with several animations that can play when not in use.",
+      "keywords": [
+        "Public Art",
+        "Creative Coding"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Ji Lee",
+    "profile-pic": "https://static1.squarespace.com/static/5baedb2d7fdcb8259f92b2ae/t/5bb3e3987817f70700f49026/1538515867139/?format=2500w",
+    "project": {
+      "title": "Clownify Stickers",
+      "collection-category": "Graphic",
+      "collection-origin": "Portfolio",
+      "image": "https://static1.squarespace.com/static/5baedb2d7fdcb8259f92b2ae/t/5bb3d9f2e4966bb96266eae3/1538513400446/CS0.jpg?format=1500w",
+      "comments": "Graphic design work, using the same visual element",
+      "description": "1,000 stickers that look like clown’s red nose. They’re placed on top of ads in New York City to instantly transform the boring ads into fun ads for the clowns.",
+      "keywords": [
+        "Graphic Design",
+        "Visual Elements"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Card Diary",
+    "profile-pic": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/95461759120015.5a26f4f8d4416.png",
+    "project": {
+      "title": "Rhythmic Studio",
+      "collection-category": "UX/UI",
+      "collection-origin": "Dribbble",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9b0d4259120015.5a26f4f8d2b57.png",
+      "comments": "Visual Design and Branding style",
+      "description": "This application is to make your own diary having a card concept. You can write one diary for one day, and one card has a meaning as putting your daily life.",
+      "keywords": [
+        "UX/UI Design",
+        "Branding"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Stepan Azaryan",
+    "profile-pic": "https://2.bp.blogspot.com/-jsUvX1fbkpA/VvNSgq-PelI/AAAAAAADmMI/wy8-2pUHCYcY-q1mVPJHdqvEhX0uj42lQ/s1600/DN_water.jpg",
+    "project": {
+      "title": "Day & Night",
+      "collection-category": "Product",
+      "collection-origin": "Dribbble",
+      "image": "https://4.bp.blogspot.com/-xJYbFzRJx50/VvNSc2j1VDI/AAAAAAADmLI/nWt0-AoogEkNQ8_xpTAS8xy1ryn5RMyrw/s940/DN_composition.jpg",
+      "comments": "This duality of the restaurant living is clearly expressed in the pictured animals, illustrated in two different polarities.",
+      "description": "Day & Night is a concept project that has a bi-facial nature that is injected in each of its design elements. The logo expresses the earth’s rotation with its shape symbolizing the change from day to night. The branding concept expresses the restaurant type that serves its dining during the day and the bar starts to act in the night.",
+      "keywords": [
+        "Branding",
+        "Packaging"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "Students from Taiwan University",
+    "profile-pic": "https://static.designboom.com/wp-content/uploads/2017/06/polluted-water-popsicles-designboom-002.jpg",
+    "project": {
+      "title": "Pollution Popsicles",
+      "collection-category": "Installation",
+      "collection-origin": "Pinterest",
+      "image": "https://static.designboom.com/wp-content/uploads/2017/06/polluted-water-popsicles-designboom-004.jpg",
+      "comments": "The one-hundred 1:1 models comprising the polluted water popsicles project showcases — in a pleasing aesthetic way — one of the biggest environmental problems we usually overlook.",
+      "description": "three students of the national taiwan university of the arts have created 100 popsicles made from polluted waters of taiwan’s lakes, rivers, beaches and ports to raise awareness on the problem of pollution. setting aside the flavor, the polluted water popsicles contain collected sewage samples that were first frozen and then preserved in polyester resin. wrapped in packaging also designed by the team, the project highlights the contrast between what is beautiful and what is problematic for the environment.",
+      "keywords": [
+        "Speculative Design",
+        "Major Studio"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "Ji Lee",
+    "profile-pic": "https://static1.squarespace.com/static/5baedb2d7fdcb8259f92b2ae/t/5bb9d747eef1a10b276176df/1538905930616/11one_action.jpg?format=1500w",
+    "project": {
+      "title": "A 3D Alphabet",
+      "collection-category": "Graphic",
+      "collection-origin": "Portfolio",
+      "image": "https://static1.squarespace.com/static/5baedb2d7fdcb8259f92b2ae/t/5bb9dbb70d929783f9ab3ee1/1538907067172/small+robots.jpg?format=2500w",
+      "comments": "A new system of alphabet, using 3D Modeling to depict the digital world",
+      "description": "NCN are new alphabut system based on a visual logic of arithmetic progression. Unlike the Arabic numbers, which are a set of abstract symbols, the use of NCN does not rely on memorizing the shapes of each number, but rather on counting the elements contained in its nine-circles grid. NCN allow us to see that numbers can be mysterious, playful and beautiful.",
+      "keywords": [
+        "Alphabet",
+        "Digital VS. Physical"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Ayesha Aggarwal",
+    "profile-pic": "https://www.artisticmoods.com/wp-content/uploads/Ayesha-Aggarwal4.jpg",
+    "project": {
+      "title": "Botanical Ceramics",
+      "collection-category": "Product",
+      "collection-origin": "Website",
+      "image": "https://www.artisticmoods.com/wp-content/uploads/Ayesha-AggarwalCover.jpg",
+      "comments": "Ceramics product design.",
+      "description": "Beautiful botanical pieces by Ayesha Aggarwal. Plates, vases, bowls and more, adorned with lovely little hand-painted botanicals…want! Ayesha is a part time potter based in Adelaide, Australia.",
+      "keywords": [
+        "Brad MacDonald",
+        "Marko Tandefelt"
+      ]
+    }
+  }
+]
